@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dashboard/npm/static/css/main.7630e489.css",
+    "main.js": "/dashboard/npm/static/js/main.adedba6b.js",
+    "static/media/human-body-anatomy.png": "/dashboard/npm/static/media/human-body-anatomy.8f4036bc3bc14114f5b5.png",
+    "static/media/lungs.png": "/dashboard/npm/static/media/lungs.03da158ed269c6d29898.png",
+    "static/media/tooth.png": "/dashboard/npm/static/media/tooth.5e3d6d047f41cccc91fb.png",
+    "static/media/bone.png": "/dashboard/npm/static/media/bone.cae75a80b1f24b2e5bab.png",
+    "index.html": "/dashboard/npm/index.html",
+    "main.7630e489.css.map": "/dashboard/npm/static/css/main.7630e489.css.map",
+    "main.adedba6b.js.map": "/dashboard/npm/static/js/main.adedba6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7630e489.css",
+    "static/js/main.adedba6b.js"
+  ]
+}
